@@ -8,5 +8,6 @@ int mian()
     {
         cout << "1" << endl;
     }
+    1
     return 0 ;
 } 
