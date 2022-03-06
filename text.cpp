@@ -9,4 +9,5 @@ int mian()
         cout << "1" << endl;
     }
     return 0 ;
+    return 0 ;
 } 
